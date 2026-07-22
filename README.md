@@ -2,9 +2,7 @@
 
 **Software Engineer | Backend & Distributed Systems | Security-Critical Systems | Applied AI**
 
-I build reliable backend systems, security-critical software, and developer tooling. I have built software professionally since 2017, primarily across TypeScript and Node.js backends, event-driven systems, automation, infrastructure, and production Ethereum protocols.
-
-My deepest specialization is blockchain, but the engineering throughline is broader: building systems that must remain correct under adversarial conditions. I am applying that systems and security experience to broader backend engineering and applied AI. My AI work focuses on the systems around models: coding-agent evaluation, adversarial task and grader design, retrieval workflows, tool orchestration, and agent-assisted development.
+I've been building software professionally since 2017, mostly TypeScript/Node.js backends and Ethereum systems. Blockchain is my deepest specialty, but I'd rather treat it as proof that I can build difficult systems than as a permanent job category. I'm now leaning further into backend engineering and applied AI, especially coding-agent evaluation, retrieval, and developer tooling.
 
 [Portfolio](https://0xklob.com/) · [LinkedIn](https://www.linkedin.com/in/caleb-ditchfield/)
 
@@ -25,7 +23,3 @@ My deepest specialization is blockchain, but the engineering throughline is broa
 | [HexagonsBestagons](https://github.com/xklob/Hexagons-Bestagons-Tower-Defense) | TypeScript tower-defense prototype with a deterministic 60 Hz simulation, command and snapshot APIs, hex-grid pathfinding, a Pixi.js frontend, and Vitest and Playwright tests. |
 | [Codex Repo Template](https://github.com/xklob/codex-repo-template) | Language-agnostic foundation for agentic software projects, with durable product and architecture context, repository-local skills, and executable planning conventions. |
 | [MineableGemToken](https://github.com/xklob/MineableGemToken) | Early smart-contract experiment adapting ERC-918-style proof-of-work mining to ERC-721 collectibles. |
-
-## Current direction
-
-I am interested in senior software engineering roles involving backend or platform systems, distributed infrastructure, security, developer tooling, or applied AI.
