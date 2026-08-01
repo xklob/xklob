@@ -4,7 +4,7 @@
 
 I've been building software professionally since 2017, mostly TypeScript/Node.js backends and Ethereum systems. Blockchain is my deepest specialty, but I'd rather treat it as proof that I can build difficult systems than as a permanent job category. I'm now leaning further into backend engineering and applied AI, especially coding-agent evaluation, retrieval, and developer tooling.
 
-[Portfolio](https://0xklob.com/) · [LinkedIn](https://www.linkedin.com/in/caleb-ditchfield/)
+[Portfolio](https://0xklob.io) · [LinkedIn](https://www.linkedin.com/in/caleb-ditchfield/)
 
 ## Engineering focus
 
